@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692997782354",
+    "project_id": "nesissalud-abf69",
+    "storage_bucket": "nesissalud-abf69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692997782354:android:63a278baeeffe1207e588b",
+        "android_client_info": {
+          "package_name": "com.nesissalud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7fiuVHBtB0yYjcP3_OLhebHzjT6jPfnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
