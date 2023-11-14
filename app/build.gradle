@@ -7,11 +7,11 @@ plugins {
 }
 
 android {
-    namespace 'com.nesissalud'
+    namespace 'com.beterasalut'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.nesissalud"
+        applicationId "com.beterasalut"
         minSdk 24
         targetSdk 34
         versionCode 3

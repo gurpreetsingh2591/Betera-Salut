@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "692997782354",
-    "project_id": "nesissalud-abf69",
-    "storage_bucket": "nesissalud-abf69.appspot.com"
+    "project_number": "55565512712",
+    "project_id": "betera-salut-cca12",
+    "storage_bucket": "betera-salut-cca12.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:692997782354:android:63a278baeeffe1207e588b",
+        "mobilesdk_app_id": "1:55565512712:android:8e42f7321b6aecf51661bd",
         "android_client_info": {
-          "package_name": "com.nesissalud"
+          "package_name": "com.beterasalut"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyD7fiuVHBtB0yYjcP3_OLhebHzjT6jPfnk"
+          "current_key": "AIzaSyBPI3xRUpYGDdFVE-rvGBoeMU-WWWU58Pw"
         }
       ],
       "services": {
