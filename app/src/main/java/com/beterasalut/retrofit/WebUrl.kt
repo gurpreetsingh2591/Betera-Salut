@@ -6,12 +6,12 @@ interface WebUrl {
 
         //live url
         const val BASE_URL ="https://consulta.4hc.es/ws_pdp/API/"
-        const val REGISTRATION_URL ="https://pdp.4hc.es/registro/registro_add.php?app=es%27;"
+        const val REGISTRATION_URL ="https://pdp.4hc.es/registro/registro_add.php?app=bs"
         const val HOME_URL ="https://pdp.4hc.es/login.php?"
 
         // APIs End Point
-       // const val API_LOGIN = "VincularPacienteDispositivo"
-        const val API_LOGIN = "ObtenerDatosPaciente"
+        const val API_LOGIN = "VincularPacienteDispositivo"
+       // const val API_LOGIN = "ObtenerDatosPaciente"
         const val API_LOGOUT = "DesvincularPacienteDispositivo"
 
         const val API_GET_OFFICE_MEETING_LIST="meetwithoffice"

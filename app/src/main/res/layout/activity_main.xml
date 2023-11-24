@@ -33,7 +33,7 @@
                 android:textSize="@dimen/_14sdp" />
         </LinearLayout>
         <LinearLayout
-            android:visibility="gone"
+            android:visibility="visible"
             android:layout_below="@+id/llLogout"
             android:id="@+id/llToken"
             android:layout_width="match_parent"
